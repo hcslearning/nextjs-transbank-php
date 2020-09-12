@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php": "^7.3",
+    "transbank/transbank-sdk": "^1.7"
+  }
+}
